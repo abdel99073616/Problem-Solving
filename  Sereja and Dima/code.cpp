@@ -24,9 +24,7 @@ int main()
 			i++;
 		else
 			j--;
- 
 	}
 	cout << s << " " << d;
- 
 	return 0;
 }
